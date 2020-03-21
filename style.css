@@ -1,0 +1,54 @@
+.container{
+    border-bottom:0px;
+}
+
+
+.container-nav{
+    padding:10px 200px;
+}
+    
+    
+    ul li a{
+    color:black;
+    
+}
+.container-banner{
+    padding:10px 200px;
+    
+}
+.buy-now{
+    background-color: black;
+    padding:10px 10px;
+    color:white;
+    border-radius: 10px 10px;
+    float:center;
+}
+h3{
+ float:justify;   
+}
+.container nav{
+     margin: 2px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+  .container-phone{
+     padding:20px 200px;
+      padding-bottom: 50px;
+  }
+
+  h5{ float: right;
+    color:orange;
+    padding:10px 30px;
+}
+.card{
+    border: none;
+    box-shadow:5px 5px 10px lightgrey;
+    padding-top:250px 500px;
+    color:rgb(14, 13, 13);
+    background-image: none;
+
+}
+.buy-now{
+    border:none;
+}
